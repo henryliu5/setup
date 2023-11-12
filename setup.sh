@@ -9,3 +9,6 @@ cp tmux/.tmux.conf ~/.tmux.conf
 # Install TPM
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
+# Cleanup 
+rm -rf tmux
+
